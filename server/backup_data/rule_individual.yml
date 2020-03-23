@@ -1,0 +1,55 @@
+---
+- name: "Builds"
+  metric: "Successful Builds"
+  threshold: 0.9
+  mName: "Successful_ind"
+  operator: "gt"
+  reward: 10
+- name: "Builds"
+  metric: "Build done"
+  threshold: 1
+  mName: "Complete_ind"
+  operator: "gt"
+  reward: 17
+- name: "SCM"
+  metric: "No. of commits per day"
+  threshold: 2
+  mName: "Commit_day_ind"
+  operator: "gt"
+  reward: 15
+- name: "Code Quality"
+  metric: "Tech debt for code base"
+  threshold: 8
+  mName: "debt_ind"
+  operator: "le"
+  reward: 11
+- name: "Code Quality"
+  metric: "Critical violations for code base"
+  threshold: 10
+  mName: "critical_ind"
+  operator: "le"
+  reward: 17
+- name: "Code Quality"
+  metric: "Blocker Violations"
+  threshold: 8
+  mName: "blocker_ind"
+  operator: "le"
+  reward: 18
+- name: "Tests"
+  metric: "Pass percentage"
+  threshold: 0.95
+  mName: "pass_ind"
+  operator: "gt"
+  reward: 16
+- name: "Tests"
+  metric: "Test Coverage"
+  threshold: 0.95
+  mName: "coverage_ind"
+  operator: "gt"
+  reward: 10
+- name: "Defects"
+  metric: "No. of defects reopened"
+  threshold: 2
+  mName: "defects_ind"
+  operator: "le"
+  reward: 10

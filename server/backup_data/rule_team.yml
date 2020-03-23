@@ -1,0 +1,61 @@
+---
+- name: "Builds"
+  metric: "Successful Builds for Team"
+  threshold: 0.8
+  mName: "Successful"
+  operator: "gt"
+  reward: 10
+- name: "Builds"
+  metric: "Build Frequency for Team"
+  threshold: 10
+  mName: "Frequency"
+  operator: "gt"
+  reward: 10
+- name: "SCM"
+  metric: "No. of commits per day"
+  threshold: 10
+  mName: "Commit_day"
+  operator: "gt"
+  reward: 10
+- name: "SCM"
+  metric: "Commits per user"
+  threshold: 1
+  mName: "Commit_user"
+  operator: "gt"
+  reward: 2
+- name: "Code Quality"
+  metric: "Tech debt for code base"
+  threshold: 10
+  mName: "debt"
+  operator: "le"
+  reward: 10
+- name: "Code Quality"
+  metric: "Critical violations for code base"
+  threshold: 15
+  mName: "critical"
+  operator: "le"
+  reward: 10
+- name: "Code Quality"
+  metric: "Blocker Violations"
+  threshold: 12
+  mName: "blocker"
+  operator: "le"
+  reward: 10
+- name: "Tests"
+  metric: "Pass percentage"
+  threshold: 0.95
+  mName: "pass"
+  operator: "gt"
+  reward: 10
+- name: "Tests"
+  metric: "Features Passed"
+  threshold: 0.8
+  mName: "feature"
+  operator: "gt"
+  reward: 10
+- name: "Defects"
+  metric: "No. of defects reopened"
+  threshold: 2
+  mName: "defects"
+  operator: "le"
+  reward: 10

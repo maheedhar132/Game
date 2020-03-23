@@ -1,0 +1,216 @@
+{
+  "Iron Man": {
+    "currentScore": 0,
+    "achievements": [],
+    "avatar": "avatar4",
+    "teamStrength": 0,
+    "metrics": [
+      {
+        "arun": 56
+      },
+      {
+        "Successful": 0.83
+      },
+      {
+        "Frequency": 12
+      },
+      {
+        "Commit_day": 14
+      },
+      {
+        "Commit_user": [1, 2]
+      },
+      {
+        "debt": 11
+      },
+      {
+        "critical": 16
+      },
+      {
+        "blocker": 11
+      },
+      {
+        "pass": 0.96
+      },
+      {
+        "feature": 0.85
+      },
+      {
+        "defects": 3
+      },
+      {
+        "testsExec": 0.9
+      }
+    ]
+  },
+  "Hawkeye": {
+    "currentScore": 0,
+    "achievements": [],
+    "avatar": "avatar3",
+    "teamStrength": 0,
+    "metrics": [
+      {
+        "arun": 56
+      },
+      {
+        "Successful": 0.83
+      },
+      {
+        "Frequency": 12
+      },
+      {
+        "Commit_day": 14
+      },
+      {
+        "Commit_user": [0, 5]
+      },
+      {
+        "debt": 11
+      },
+      {
+        "critical": 16
+      },
+      {
+        "blocker": 11
+      },
+      {
+        "pass": 0.96
+      },
+      {
+        "feature": 0.85
+      },
+      {
+        "defects": 3
+      },
+      {
+        "testsExec": 0.7
+      }
+    ]
+  },
+  "Thor": {
+    "currentScore": 0,
+    "achievements": [],
+    "avatar": "avatar2",
+    "teamStrength": 0,
+    "metrics": [
+      {
+        "arun": 56
+      },
+      {
+        "Successful": 0.83
+      },
+      {
+        "Frequency": 12
+      },
+      {
+        "Commit_day": 14
+      },
+      {
+        "Commit_user": [3, 5]
+      },
+      {
+        "debt": 11
+      },
+      {
+        "critical": 16
+      },
+      {
+        "blocker": 11
+      },
+      {
+        "pass": 0.96
+      },
+      {
+        "feature": 0.85
+      },
+      {
+        "defects": 3
+      },
+      {
+        "testsExec": 0.82
+      }
+    ]
+  },
+  "Spiderman": {
+    "currentScore": 0,
+    "achievements": [],
+    "avatar": "avatar0",
+    "teamStrength": 0,
+    "metrics": [
+      {
+        "arun": 56
+      },
+      {
+        "Successful": 0.83
+      },
+      {
+        "Frequency": 12
+      },
+      {
+        "Commit_day": 14
+      },
+      {
+        "Commit_user": [2, 0, 5]
+      },
+      {
+        "debt": 11
+      },
+      {
+        "critical": 16
+      },
+      {
+        "blocker": 11
+      },
+      {
+        "pass": 0.96
+      },
+      {
+        "feature": 0.85
+      },
+      {
+        "defects": 1
+      },
+      {
+        "testsExec": 0.67
+      }
+    ]
+  },
+  "Hulk": {
+    "currentScore": 0,
+    "achievements": [],
+    "avatar": "avatar1",
+    "teamStrength": 0,
+    "metrics": [
+      {
+        "arun": 56
+      },
+      {
+        "Commit_day": 14
+      },
+      {
+        "Commit_user": [1, 2]
+      },
+      {
+        "debt": 11
+      },
+      {
+        "critical": 16
+      },
+      {
+        "blocker": 11
+      },
+      {
+        "pass": 0.96
+      },
+      {
+        "feature": 0.85
+      },
+      {
+        "defects": 3
+      },
+      {
+        "testsExec": 0.76
+      }
+    ]
+  }
+}

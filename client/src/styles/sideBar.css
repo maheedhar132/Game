@@ -1,0 +1,32 @@
+.ui.vertical.menu > .item {
+  font-size: 14px;
+  padding: 9% 12%;
+}
+
+.ui.vertical.menu > .active.item {
+  background: white;
+  color: #1c4598;
+  border-left: 11px solid #1c4598;
+  border-radius: 0%;
+}
+
+.ui.vertical.menu > .active.item > span {
+  margin-left: -7%;
+  font-weight: 500;
+}
+
+.ui.secondary.menu .active.item:hover {
+  background: white;
+  color: black;
+}
+
+.ui.secondary.vertical.menu > .item:hover {
+  background: white;
+}
+
+.sidePusher {
+  padding-left: 17.5%;
+  padding-top: 3%;
+  height: 400px;
+  padding-right: 3%;
+}

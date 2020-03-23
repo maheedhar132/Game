@@ -1,0 +1,420 @@
+{
+  "Keerthi": {
+    "currentScore": 0,
+    "achievements": [],
+    "avatar": "avatar0",
+    "teamName": "Hawkeye",
+    "metrics": [
+      {
+        "Successful_ind": 0.93
+      },
+      {
+        "Complete_ind": 3
+      },
+      {
+        "Commit_day_ind": 3
+      },
+      {
+        "debt_ind": 11
+      },
+      {
+        "critical_ind": 16
+      },
+      {
+        "blocker_ind": 5
+      },
+      {
+        "pass_ind": 0.96
+      },
+      {
+        "coverage_ind": 0.85
+      },
+      {
+        "defects_ind": 1
+      },
+      {
+        "testsExec_ind": 0.9
+      }
+    ]
+  },
+  "Nivethitha": {
+    "currentScore": 0,
+    "achievements": [],
+    "avatar": "avatar0",
+    "teamName": "Thor",
+    "metrics": [
+      {
+        "Successful_ind": 0.89
+      },
+      {
+        "Complete_ind": 3
+      },
+      {
+        "Commit_day_ind": 3
+      },
+      {
+        "debt_ind": 11
+      },
+      {
+        "critical_ind": 16
+      },
+      {
+        "blocker_ind": 5
+      },
+      {
+        "pass_ind": 0.94
+      },
+      {
+        "coverage_ind": 0.85
+      },
+      {
+        "defects_ind": 1
+      },
+      {
+        "testsExec_ind": 0.8
+      }
+    ]
+  },
+  "Navin": {
+    "currentScore": 0,
+    "achievements": [],
+    "avatar": "avatar2",
+    "teamName": "Hulk",
+    "metrics": [
+      {
+        "Successful_ind": 0.93
+      },
+      {
+        "Complete_ind": 0
+      },
+      {
+        "Commit_day_ind": 3
+      },
+      {
+        "debt_ind": 11
+      },
+      {
+        "critical_ind": 16
+      },
+      {
+        "blocker_ind": 5
+      },
+      {
+        "pass_ind": 0.96
+      },
+      {
+        "coverage_ind": 0.85
+      },
+      {
+        "defects_ind": 1
+      },
+      {
+        "testsExec_ind": 0.7
+      }
+    ]
+  },
+  "Kishan": {
+    "currentScore": 0,
+    "achievements": [],
+    "avatar": "avatar2",
+    "teamName": "Hulk",
+    "metrics": [
+      {
+        "Successful_ind": 0.89
+      },
+      {
+        "Complete_ind": 3
+      },
+      {
+        "Commit_day_ind": 3
+      },
+      {
+        "debt_ind": 11
+      },
+      {
+        "critical_ind": 16
+      },
+      {
+        "blocker_ind": 5
+      },
+      {
+        "pass_ind": 0.94
+      },
+      {
+        "coverage_ind": 0.85
+      },
+      {
+        "defects_ind": 1
+      },
+      {
+        "testsExec_ind": 0.45
+      }
+    ]
+  },
+  "Madhu": {
+    "currentScore": 0,
+    "achievements": [],
+    "avatar": "avatar2",
+    "teamName": "Spiderman",
+    "metrics": [
+      {
+        "Successful_ind": 0.89
+      },
+      {
+        "Complete_ind": 3
+      },
+      {
+        "Commit_day_ind": 3
+      },
+      {
+        "debt_ind": 11
+      },
+      {
+        "critical_ind": 16
+      },
+      {
+        "blocker_ind": 5
+      },
+      {
+        "pass_ind": 0.94
+      },
+      {
+        "coverage_ind": 0.85
+      },
+      {
+        "defects_ind": 1
+      },
+      {
+        "testsExec_ind": 0.96
+      }
+    ]
+  },
+  "Pallavi": {
+    "currentScore": 0,
+    "achievements": [],
+    "avatar": "avatar0",
+    "teamName": "Spiderman",
+    "metrics": [
+      {
+        "Successful_ind": 0.89
+      },
+      {
+        "Complete_ind": 3
+      },
+      {
+        "Commit_day_ind": 3
+      },
+      {
+        "debt_ind": 11
+      },
+      {
+        "critical_ind": 16
+      },
+      {
+        "blocker_ind": 5
+      },
+      {
+        "pass_ind": 0.94
+      },
+      {
+        "coverage_ind": 0.85
+      },
+      {
+        "defects_ind": 1
+      },
+      {
+        "testsExec_ind": 0.87
+      }
+    ]
+  },
+  "Arun": {
+    "currentScore": 0,
+    "achievements": [],
+    "avatar": "avatar3",
+    "teamName": "Iron Man",
+    "metrics": [
+      {
+        "Successful_ind": 0.93
+      },
+      {
+        "Complete_ind": 0
+      },
+      {
+        "Commit_day_ind": 3
+      },
+      {
+        "debt_ind": 11
+      },
+      {
+        "critical_ind": 16
+      },
+      {
+        "blocker_ind": 5
+      },
+      {
+        "pass_ind": 0.96
+      },
+      {
+        "coverage_ind": 0.85
+      },
+      {
+        "defects_ind": 1
+      },
+      {
+        "testsExec_ind": 0.85
+      }
+    ]
+  },
+  "Threka": {
+    "currentScore": 0,
+    "achievements": [],
+    "avatar": "avatar4",
+    "teamName": "Hawkeye",
+    "metrics": [
+      {
+        "Successful_ind": 0.93
+      },
+      {
+        "Complete_ind": 0
+      },
+      {
+        "Commit_day_ind": 3
+      },
+      {
+        "debt_ind": 11
+      },
+      {
+        "critical_ind": 16
+      },
+      {
+        "blocker_ind": 5
+      },
+      {
+        "pass_ind": 0.96
+      },
+      {
+        "coverage_ind": 0.85
+      },
+      {
+        "defects_ind": 1
+      },
+      {
+        "testsExec_ind": 0.34
+      }
+    ]
+  },
+  "Sakshi": {
+    "currentScore": 0,
+    "achievements": [],
+    "avatar": "avatar1",
+    "teamName": "Thor",
+    "metrics": [
+      {
+        "Successful_ind": 0.93
+      },
+      {
+        "Complete_ind": 0
+      },
+      {
+        "Commit_day_ind": 3
+      },
+      {
+        "debt_ind": 11
+      },
+      {
+        "critical_ind": 16
+      },
+      {
+        "blocker_ind": 5
+      },
+      {
+        "pass_ind": 0.96
+      },
+      {
+        "coverage_ind": 0.85
+      },
+      {
+        "defects_ind": 1
+      },
+      {
+        "testsExec_ind": 0.78
+      }
+    ]
+  },
+  "Akshit": {
+    "currentScore": 0,
+    "achievements": [],
+    "avatar": "avatar3",
+    "teamName": "Iron Man",
+    "metrics": [
+      {
+        "Successful_ind": 0.93
+      },
+      {
+        "Complete_ind": 0
+      },
+      {
+        "Commit_day_ind": 3
+      },
+      {
+        "debt_ind": 11
+      },
+      {
+        "critical_ind": 16
+      },
+      {
+        "blocker_ind": 5
+      },
+      {
+        "pass_ind": 0.96
+      },
+      {
+        "coverage_ind": 0.85
+      },
+      {
+        "defects_ind": 1
+      },
+      {
+        "testsExec_ind": 0.92
+      }
+    ]
+  },
+  "Prachi": {
+    "currentScore": 0,
+    "achievements": [],
+    "avatar": "avatar2",
+    "teamName": "Spiderman",
+    "metrics": [
+      {
+        "Successful_ind": 0.93
+      },
+      {
+        "Commit_day_ind": 3
+      },
+      {
+        "test": 0
+      },
+      {
+        "debt_ind": 11
+      },
+      {
+        "critical_ind": 16
+      },
+      {
+        "blocker_ind": 5
+      },
+      {
+        "pass_ind": 0.96
+      },
+      {
+        "coverage_ind": 0.85
+      },
+      {
+        "defects_ind": 1
+      },
+      {
+        "testsExec_ind": 0.81
+      }
+    ]
+  }
+}
