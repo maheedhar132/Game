@@ -64,7 +64,7 @@ app.post("/api/addRule", function(req, res) {
 
 app.use("/api/dashboard", require(path.join(__dirname, "./server/dashboard"))); //When it is /api then it will go to getData
 
-if (process.env.NODE_ENV === "production") {
+//if (process.env.NODE_ENV === "production") {
   // Serve any static files
   app.use(express.static(path.join(__dirname, "client/build")));
 
@@ -73,7 +73,7 @@ if (process.env.NODE_ENV === "production") {
   app.get("/", function(req, res) {
     res.sendFile(path.join(__dirname, "client/build", "index.html"));
   });
-}
+//}
 
 // setup mongoose connection
 
