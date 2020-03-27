@@ -118,13 +118,10 @@ export default class IndividualRules extends Component {
     toast.success(message);
   }
   
-  failureAlert(message) {
-  return error;
-  }
-
-/*  failureAlert(message) {
+  
+ failureAlert(message) {
     toast.warn(message);
-  }*/
+  }
 
   render() {
     let { individualRules, newRule } = this.state;
