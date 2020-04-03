@@ -85,14 +85,14 @@ export default class IndividualRules extends Component {
       });
   }
 
-qualityRiskCheck = () => {
-console.log("Quality risk check executed")
-}
+//qualityRiskCheck = () => {
+//console.log("Quality risk check executed")
+//}
 
 
 
   resetData = () => {
-    this.qualityRiskCheck();
+   // this.qualityRiskCheck();
     axios
       .get("/api/dashboard/reset/individual")
       .then(response => {
