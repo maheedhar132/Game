@@ -87,11 +87,11 @@ export default class TeamRules extends Component {
 
 
 
-//qualityRiskCheck = () => {
+qualityRiskCheck = () => {
 
-//console.log("Quality risk check executed")
+console.log("Quality risk check executed")
 
-//}
+}
 
 
 
@@ -101,7 +101,7 @@ export default class TeamRules extends Component {
 
 
   resetData = () => {
-  //  this.qualityRiskCheck();
+   this.qualityRiskCheck();
     
     axios
       .get("/api/dashboard/reset/team")
